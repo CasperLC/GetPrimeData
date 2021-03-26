@@ -1,0 +1,12 @@
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\bin\Debug\netcoreapp3.1\PrimeDataHelper.deps.json
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\bin\Debug\netcoreapp3.1\PrimeDataHelper.runtimeconfig.json
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\bin\Debug\netcoreapp3.1\PrimeDataHelper.runtimeconfig.dev.json
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\bin\Debug\netcoreapp3.1\PrimeDataHelper.dll
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\bin\Debug\netcoreapp3.1\PrimeDataHelper.pdb
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\obj\Debug\netcoreapp3.1\PrimeDataHelper.csprojAssemblyReference.cache
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\obj\Debug\netcoreapp3.1\PrimeDataHelper.AssemblyInfoInputs.cache
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\obj\Debug\netcoreapp3.1\PrimeDataHelper.AssemblyInfo.cs
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\obj\Debug\netcoreapp3.1\PrimeDataHelper.csproj.CoreCompileInputs.cache
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\obj\Debug\netcoreapp3.1\PrimeDataHelper.dll
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\obj\Debug\netcoreapp3.1\PrimeDataHelper.pdb
+C:\Users\Caspe\source\repos\GetPrimeData\PrimeDataHelper\obj\Debug\netcoreapp3.1\PrimeDataHelper.genruntimeconfig.cache
